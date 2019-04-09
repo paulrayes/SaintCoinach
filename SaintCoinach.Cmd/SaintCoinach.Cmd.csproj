@@ -82,6 +82,7 @@
     <Compile Include="Commands\AllExdRawCommand.cs" />
     <Compile Include="Commands\BgmCommand.cs" />
     <Compile Include="Commands\ExdCommand.cs" />
+    <Compile Include="Commands\JsonCommand.cs" />
     <Compile Include="Commands\LanguageCommand.cs" />
     <Compile Include="Commands\ImageCommand.cs" />
     <Compile Include="Commands\MapCommand.cs" />
