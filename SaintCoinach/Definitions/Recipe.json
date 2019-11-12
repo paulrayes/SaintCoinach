@@ -3,6 +3,9 @@
   "defaultColumn": "Item{Result}",
   "definitions": [
     {
+      "name": "Number",
+    },
+    {
       "index": 1,
       "name": "CraftType",
       "converter": {
@@ -53,6 +56,10 @@
     {
       "index": 26,
       "name": "IsSecondary"
+    },
+    {
+      "index": 27,
+      "name": "MaterialQualityFactor"
     },
     {
       "index": 28,

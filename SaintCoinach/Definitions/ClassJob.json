@@ -22,6 +22,14 @@
       "name": "ExpArrayIndex"
     },
     {
+      "index": 5,
+      "name": "BattleClassIndex"
+    },
+    {
+      "index": 7,
+      "name": "JobIndex"
+    },
+    {
       "index": 9,
       "name": "Modifier{HitPoints}"
     },
@@ -86,6 +94,14 @@
       }
     },
     {
+      "index": 32,
+      "name": "MonsterNote",
+      "converter": {
+        "type": "link",
+        "target": "MonsterNote"
+      }
+    },
+    {
       "index": 33,
       "name": "PrimaryStat"
     },
@@ -112,6 +128,10 @@
         "type": "link",
         "target": "Action"
       }
+    },
+    {
+      "index": 37,
+      "name": "UIPriority"
     },
     {
       "index": 38,
@@ -156,6 +176,10 @@
     {
       "index": 44,
       "name": "IsLimitedJob"
+    },
+    {
+      "index": 45,
+      "name": "CanQueueForDuty"
     }
   ]
 }
